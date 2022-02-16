@@ -8,7 +8,7 @@ public class HowOldAreYouSpecifically {
         System.out.print("Hey, what's your name? (Sorry, I keep forgetting.) ");
         String name = kb.nextLine();
         System.out.print(String.format("Ok, %s, how old are you? ", name));
-        int age = Integer.valueOf(kb.nextLine());
+        int age = kb.nextInt();
         System.out.println();
         if (age < 16 ) {
             System.out.println(String.format("You can't drive, %s.", name));

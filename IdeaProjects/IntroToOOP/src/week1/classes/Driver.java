@@ -5,7 +5,7 @@ public class Driver {
         Rectangle r1 = new Rectangle(5, 7, "Blue");
         Rectangle r2 = new Rectangle(10, 2, "Green");
         Rectangle r3 = new Rectangle(15, 12, "Red");
-        r3.draw();
+        r1.draw();
 
     }
 }

@@ -9,7 +9,7 @@ public class AddingValuesInLoop {
         System.out.println("I will add up the numbers you give me.");
         while ( number != 0) {
             System.out.print("Number: ");
-            number = Integer.valueOf(kb.nextLine());
+            number = kb.nextInt();
             sum += number;
             if (number != 0) {
                 System.out.println(String.format("The total so far is %d", sum));
