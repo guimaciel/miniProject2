@@ -8,7 +8,6 @@ public class Driver {
     private static final String quit = "5";
 
     public static void main(String[] args) {
-
         String option = "";
         ContactList cl = new ContactList();
         while (!option.equals("5")) {

@@ -28,7 +28,6 @@ public class ContactList {
         c = new Contact("Guilherme Almeida","0987654321");
         populated.add(c);
 
-
         return populated;
     }
 

@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b76875f5-1b4a-4b6e-ba0e-28e1319db71f" name="Changes" comment="" />
+    <list default="true" id="b76875f5-1b4a-4b6e-ba0e-28e1319db71f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/labs/lab1/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/lab1/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/labs/lab1/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/lab1/Model.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

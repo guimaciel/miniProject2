@@ -152,7 +152,6 @@ public class InputCollector {
                c.setHome(input);
                input = InputCollector.getUserInput("Update city:");
                c.setCity(input);
-
            } else {
                System.out.println("Contact not found!");
            }

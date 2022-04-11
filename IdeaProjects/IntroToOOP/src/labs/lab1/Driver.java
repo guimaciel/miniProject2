@@ -5,6 +5,9 @@ public class Driver {
         Model m1 = new Model("Susan","Smith",70,120);
         m1.displayModelDetails();
     }
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> main
 }
